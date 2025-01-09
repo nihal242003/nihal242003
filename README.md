@@ -13,9 +13,14 @@
 <img src="certificates/certificate.jpg" width="600" />
 
 ---
+### 🛠️ **Mechanical CAD Software:**
 
-
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-33C8FF?style=for-the-badge&logo=autocad&logoColor=white)](https://www.autodesk.com/products/autocad/overview)  
+[![SolidWorks](https://img.shields.io/badge/SolidWorks-0A75B2?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/) 
+[![CATIA V5](https://img.shields.io/badge/CATIA%20V5-005F87?style=for-the-badge&logo=ds&logoColor=white)](https://www.3ds.com/products-services/catia/)  
+[![NX CAD](https://img.shields.io/badge/NX%20CAD-00A9E0?style=for-the-badge&logo=siemens&logoColor=white)](https://www.plm.automation.siemens.com/global/en/products/nx/)
 ---
+
 
 ### About Me
 
