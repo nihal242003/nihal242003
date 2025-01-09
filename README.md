@@ -22,15 +22,15 @@
 
 ---
 
-### 🎥 Video Demonstrations:
+### 🎥 CATIA V5:
 
-- **Video 1:**  
+- **Assembly:**  
   <img src="demos/video1.gif" width="500">
 
-- **Video 2:**  
+- **2D:**  
   <img src="demos/video2.gif" width="500">
 
-- **Video 3:**  
+- **Sheet-Metal:**  
   <img src="demos/video3.gif" width="500">
 
 
