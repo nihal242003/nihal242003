@@ -15,12 +15,31 @@
 ---
 ### 🛠️ **Mechanical CAD Software:**
 
-[![AutoCAD](https://img.shields.io/badge/AutoCAD-33C8FF?style=for-the-badge&logo=autocad&logoColor=white)](https://www.autodesk.com/products/autocad/overview)  
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-33C8FF?style=for-the-badge&logo=autocad&logoColor=white)](https://www.autodesk.com/products/autocad/overview) 
+
 [![SolidWorks](https://img.shields.io/badge/SolidWorks-0A75B2?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/) 
-[![CATIA V5](https://img.shields.io/badge/CATIA%20V5-005F87?style=for-the-badge&logo=ds&logoColor=white)](https://www.3ds.com/products-services/catia/)  
+
+[![CATIA V5](https://img.shields.io/badge/CATIA%20V5-005F87?style=for-the-badge&logo=ds&logoColor=white)](https://www.3ds.com/products-services/catia/) 
+
 [![NX CAD](https://img.shields.io/badge/NX%20CAD-00A9E0?style=for-the-badge&logo=siemens&logoColor=white)](https://www.plm.automation.siemens.com/global/en/products/nx/)
 
----
+ ---
+
+  ### 🎥 SOLIDWORK:
+
+- **Bevel and Spur gear motion:**  
+  <img src="SOLIDWORK/Bevel and Spur gear motion Study.gif" width="500">
+
+- **Flange coupling:**  
+  <img src="SOLIDWORK/Flange coupling.gif" width="500">
+
+- **Sheet metal:**  
+  <img src="SOLIDWORK/Sheet metal.gif" width="500">
+  
+- **Sheet metal-Switch box:**  
+  <img src="SOLIDWORK/Switch box.gif" width="500">
+
+  ---
 
 ### 🎥 CATIA V5:
 
@@ -33,10 +52,11 @@
 - **Sheet-Metal:**  
   <img src="demos/video3.gif" width="500">
 
+  ---
 
 ### About Me
 
-I am a passionate **Mechanical Engineer** with a keen interest in **CAD DESIGNING** and **SIMULATION**. Throughout my career, I've focused on improving design processes and automating systems, particularly in the areas of **CNC programming**, **CAD design**, and **simulation**. I am always excited to explore new technologies and applications that bridge mechanical engineering with cutting-edge innovations.
+I am a passionate **Mechanical Engineer** with a keen interest in **CAD DESIGNING** and **SIMULATION**. Throughout my career, I've focused on improving design processes and automating systems, particularly in the areas of **CAD design**, and **simulation**. I am always excited to explore new technologies and applications that bridge mechanical engineering with cutting-edge innovations.
 
 If you're interested in collaborating or just want to chat about **drones** or **CAD**, feel free to reach out to me!
 
