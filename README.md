@@ -43,14 +43,14 @@
 
 ### 🎥 CATIA V5:
 
-- **Assembly:**  
-  <img src="demos/video1.gif" width="500">
-
 - **2D:**  
-  <img src="demos/video2.gif" width="500">
+  <img src="CATIA V5/2D.gif" width="500">
+
+- **Assembly:**  
+  <img src="CATIA V5/Assembly.gif" width="500">
 
 - **Sheet-Metal:**  
-  <img src="demos/video3.gif" width="500">
+  <img src="CATIA V5/Sheetmetal.gif" width="500">
 
   ---
 
