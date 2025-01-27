@@ -36,7 +36,7 @@
 - **CAR:**  
   <img src="AutoCAD/CAR.gif" width="500">
 
-  - **Orthographic Projection:**  
+- **Orthographic Projection:**  
   <img src="AutoCAD/Orthographic Projection.gif" width="500">
 
  ---
