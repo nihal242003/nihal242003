@@ -23,6 +23,22 @@
 
 [![NX CAD](https://img.shields.io/badge/NX%20CAD-00A9E0?style=for-the-badge&logo=siemens&logoColor=white)](https://www.plm.automation.siemens.com/global/en/products/nx/)
 
+  ---
+
+  ### 🎥 AutoCAD:
+
+- **2D:**  
+  <img src="AutoCAD/2D.gif" width="500">
+
+- **3D MODEL:**  
+  <img src="AutoCAD/3D MODEL.gif" width="500">
+  
+- **CAR:**  
+  <img src="AutoCAD/CAR.gif" width="500">
+
+  - **Orthographic Projection:**  
+  <img src="AutoCAD/Orthographic Projection.gif" width="500">
+
  ---
 
   ### 🎥 SOLIDWORK:
