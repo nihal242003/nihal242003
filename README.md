@@ -32,9 +32,6 @@
 
 - **Flange coupling:**  
   <img src="SOLIDWORK/Flange coupling.gif" width="500">
-
-- **Sheet metal:**  
-  <img src="SOLIDWORK/Sheet metal.gif" width="500">
   
 - **Sheet metal-Switch box:**  
   <img src="SOLIDWORK/Switch box.gif" width="500">
