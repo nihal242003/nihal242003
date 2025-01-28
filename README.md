@@ -66,6 +66,18 @@
   <img src="CATIA V5/Sheetmetal.gif" width="500">
 
   ---
+  
+  ### 🎥 NX CAD:
+
+- **3D:**  
+  <img src="NX CAD/3D Part.gif" width="500">
+
+- **Assembly:**  
+  <img src="NX CAD/Plumber block.gif" width="500">
+
+- **Sheet-Metal:**  
+  <img src="NX CAD/Sheetmetal.gif" width="500">
+
 
 ### About Me
 
