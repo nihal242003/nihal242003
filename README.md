@@ -64,6 +64,9 @@
 
 - **Sheet-Metal:**  
   <img src="CATIA V5/Sheetmetal.gif" width="500">
+  
+- **PROJECT:Multi-Axis Robotic Arm Assembly**  
+  <img src="CATIA V5/MULTI-AXIS ROBOTIC ARM.gif" width="500">
 
   ---
   
@@ -78,6 +81,11 @@
 - **Sheet-Metal:**  
   <img src="NX CAD/Sheetmetal.gif" width="500">
 
+- **PROJECT:V6 Engine Assembly**  
+  <img src="NX CAD/V6 ENGINE.gif" width="500">
+
+- **V6 Motion**  
+  <img src="NX CAD/V6_motion.gif" width="500">
 
 ### About Me
 
