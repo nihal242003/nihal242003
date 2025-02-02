@@ -80,7 +80,7 @@
 - **Sheet-Metal:**  
   <img src="NX CAD/Sheetmetal.gif" width="500">
 
-- **PROJECT:V6 Engine Assembly**
+- **PROJECT:V6 Engine Assembly**  
   <img src="PROJECT/V6 ENGINE.gif" width="500"> 
  
 - **V6 Motion**  
