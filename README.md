@@ -41,16 +41,16 @@
 
  ---
 
-  ### 🎥 SOLIDWORK:
+  ### 🎥 SOLIDWORKS:
 
 - **Bevel and Spur gear motion:**  
-  <img src="SOLIDWORK/Bevel and Spur gear motion Study.gif" width="500">
+  <img src="SOLIDWORKS/Bevel and Spur gear motion Study.gif" width="500">
 
 - **Flange coupling:**  
-  <img src="SOLIDWORK/Flange coupling.gif" width="500">
+  <img src="SOLIDWORKS/Flange coupling.gif" width="500">
   
 - **Sheet metal-Switch box:**  
-  <img src="SOLIDWORK/Switch box.gif" width="500">
+  <img src="SOLIDWORKS/Switch box.gif" width="500">
 
   ---
 
@@ -66,7 +66,7 @@
   <img src="CATIA V5/Sheetmetal.gif" width="500">
   
 - **PROJECT:Multi-Axis Robotic Arm Assembly**  
-  <img src="CATIA V5/MULTI-AXIS ROBOTIC ARM.gif" width="500">
+  <img src="PROJECT/MULTI-AXIS ROBOTIC ARM.gif" width="500">
 
   ---
   
@@ -82,10 +82,10 @@
   <img src="NX CAD/Sheetmetal.gif" width="500">
 
 - **PROJECT:V6 Engine Assembly**  
-  <img src="NX CAD/V6 ENGINE.gif" width="500">
+  <img src="PROJECT/V6 ENGINE.gif" width="500">
 
 - **V6 Motion**  
-  <img src="NX CAD/V6_motion.gif" width="500">
+  <img src="PROJECT/V6_motion.gif" width="500">
 
 ### About Me
 
