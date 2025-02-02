@@ -83,7 +83,7 @@
 - **PROJECT:V6 Engine Assembly**
   <img src="PROJECT/V6 ENGINE.gif" width="500"> 
  
-  **V6 Motion**  
+- **V6 Motion**  
   <img src="PROJECT/V6_motion.gif" width="500">
 
 ### About Me
