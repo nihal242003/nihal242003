@@ -111,12 +111,13 @@ This project focuses on the **development, automation, and implementation of an 
   <img src="SOLIDWORKS-Quadcopter Frame.gif" width="500">
 
 ### **Drone CAD Model (F450 Quadcopter Frame)**
-Below is the **F450 Quadcopter Frame**, designed in **SolidWorks**:  
+Below is the **F450 Quadcopter Frame**, designed in **SolidWorks**:
 
-📂 **[Download CAD Model (STEP File)](F450 Quadcopter Frame.step)**  
+📂 **[Download CAD Model (STEP File)](F450%20Quadcopter%20Frame.step)**  
 
-### **Project Report**  
-📜 **[Download Full Project Report](7TH SEM PROJECT REPORT.docx)**  
+## **Project Report**
+📜 **[Download Full Project Report](7TH%20SEM%20PROJECT%20REPORT.docx)**  
+ 
 
 ---
 
