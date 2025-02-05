@@ -54,7 +54,7 @@
 
   ---
 
-### 🎥 CATIA V5:
+  ### 🎥 CATIA V5:
 
 - **2D:**  
   <img src="CATIA V5/2D.gif" width="500">
@@ -90,14 +90,14 @@
 # **Major Project**
 **Agro-Seeding Drone: Development, Automation & Implementation** 🚀
 
-## **7th Semester Engineering Project (2024-25)**  
+**7th Semester Engineering Project (2024-25)**  
 
-### **Project Overview**  
+**Project Overview**  
 This project focuses on the **development, automation, and implementation of an agro-seeding drone** using a **NAZA flight controller**. The drone is designed to achieve stable flight, GPS data logging, and automated functions such as **auto-landing**. It is developed from scratch, including hardware selection, firmware setup, PID tuning, and flight testing.  
 
 ---
 
-## **Features**  
+**Features**  
 ✅ **Stable Flight & Auto-Landing**  
 ✅ **GPS Data Logging & Navigation**  
 ✅ **NAZA Assistant Software Configuration**  
@@ -106,23 +106,23 @@ This project focuses on the **development, automation, and implementation of an 
 
 ---
 
-## **Project Media & Documentation** 
+**Project Media & Documentation** 
 
 - **🎥Quadcopter frame:**  
   <img src="SOLIDWORKS-Quadcopter Frame.gif" width="500">
 
-### **Drone CAD Model (F450 Quadcopter Frame)**
+**Drone CAD Model (F450 Quadcopter Frame)**
 Below is the **F450 Quadcopter Frame**, designed in **SolidWorks**:
 
 📂 **[Download CAD Model (STEP File)](F450%20Quadcopter%20Frame.step)**  
 
-## **Project Report**
+**Project Report**
 📜 **[Download Full Project Report](7TH%20SEM%20PROJECT%20REPORT.docx)**  
  
 
 ---
 
-## **How to Set Up & Run the Drone**  
+**How to Set Up & Run the Drone**  
 1. **Assemble all components and ensure proper wiring connections.**  
 2. **Connect the NAZA flight controller to the computer and configure settings using NAZA Assistant Software.**  
 3. **Calibrate the accelerometer, compass, and radio transmitter.**  
