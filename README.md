@@ -86,6 +86,57 @@
 - **V6 Motion**  
   <img src="PROJECT/V6_motion.gif" width="500">
 
+# **Major Project**
+**Agro-Seeding Drone: Development, Automation & Implementation** 🚀
+
+## **7th Semester Engineering Project (2024-25)**  
+
+### **Project Overview**  
+This project focuses on the **development, automation, and implementation of an agro-seeding drone** using a **NAZA flight controller**. The drone is designed to achieve stable flight, GPS data logging, and automated functions such as **auto-landing**. It is developed from scratch, including hardware selection, firmware setup, PID tuning, and flight testing.  
+
+---
+
+## **Features**  
+✅ **Stable Flight & Auto-Landing**  
+✅ **GPS Data Logging & Navigation**  
+✅ **NAZA Assistant Software Configuration**  
+✅ **PID Tuning & Calibration**  
+✅ **Agro-Seeding Mechanism for Precision Farming**  
+
+---
+
+## **Project Media & Documentation** 
+
+- **🎥Quadcopter frame:**  
+  <img src="SOLIDWORKS-Quadcopter Frame.gif" width="500">
+
+### **Drone CAD Model (F450 Quadcopter Frame)**
+Below is the **F450 Quadcopter Frame**, designed in **SolidWorks**:  
+
+📂 **[Download CAD Model (STEP File)](F450 Quadcopter Frame.step)**  
+
+### **Project Report**  
+📜 **[Download Full Project Report](7TH SEM PROJECT REPORT.docx)**  
+
+---
+
+## **How to Set Up & Run the Drone**  
+1. **Assemble all components and ensure proper wiring connections.**  
+2. **Connect the NAZA flight controller to the computer and configure settings using NAZA Assistant Software.**  
+3. **Calibrate the accelerometer, compass, and radio transmitter.**  
+4. **Perform PID tuning for smooth and stable flight.**  
+5. **Upload firmware and conduct pre-flight checks.**  
+6. **Test the drone with manual and automated flight modes.**  
+
+---
+
+## **License**  
+This project is open-source and available under the [MIT License](LICENSE).  
+
+---
+
+
+
 ### About Me
 
 I am a passionate **Mechanical Engineer** with a keen interest in **CAD DESIGNING** and **SIMULATION**. Throughout my career, I've focused on improving design processes and automating systems, particularly in the areas of **CAD design**, and **simulation**. I am always excited to explore new technologies and applications that bridge mechanical engineering with cutting-edge innovations.
