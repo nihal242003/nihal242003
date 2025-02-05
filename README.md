@@ -126,13 +126,8 @@ Below is the **F450 Quadcopter Frame**, designed in **SolidWorks**:
 3. **Calibrate the accelerometer, compass, and radio transmitter.**  
 4. **Perform PID tuning for smooth and stable flight.**  
 5. **Upload firmware and conduct pre-flight checks.**  
-6. **Test the drone with manual and automated flight modes.**  
-
----
-
-## **License**  
-This project is open-source and available under the [MIT License](LICENSE).  
-
+6. **Test the drone with manual and automated flight modes.**
+   
 ---
 
 
