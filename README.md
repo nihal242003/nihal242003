@@ -12,7 +12,7 @@
 
 <img src="certificates/certificate.jpg" width="600" />
 
-<img src="Workshop/Workshop.jpg" width="600" />
+<img src="Workshop.jpg" width="600" />
 
 ---
 ### 🛠️ **Mechanical CAD Software:**
