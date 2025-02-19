@@ -9,9 +9,9 @@
 
 ---
 ### 💼 **Certificates:**
-
+- **CAD Software**
 <img src="certificates/certificate.jpg" width="600" />
-
+- **CAD Workshop**
 <img src="Workshop.jpg" width="600" />
 
 ---
