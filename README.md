@@ -37,18 +37,12 @@
 - **3D MODEL:**  
   <img src="AutoCAD/3D MODEL.gif" width="500">
   
-- **CAR:**  
-  <img src="AutoCAD/CAR.gif" width="500">
-
 - **Orthographic Projection:**  
   <img src="AutoCAD/Orthographic Projection.gif" width="500">
 
  ---
 
   ### 🎥 SOLIDWORKS:
-
-- **Bevel and Spur gear motion:**  
-  <img src="SOLIDWORKS/Bevel and Spur gear motion Study.gif" width="500">
 
 - **Flange coupling:**  
   <img src="SOLIDWORKS/Flange coupling.gif" width="500">
@@ -68,9 +62,6 @@
 
 - **Sheet-Metal:**  
   <img src="CATIA V5/Sheetmetal.gif" width="500">
-  
-- **PROJECT:Multi-Axis Robotic Arm Assembly**  
-  <img src="PROJECT/MULTI-AXIS ROBOTIC ARM.gif" width="500">
 
   ---
   
@@ -87,9 +78,7 @@
 
 - **PROJECT:V6 Engine Assembly**  
   <img src="PROJECT/V6 ENGINE.gif" width="500"> 
- 
-- **V6 Motion**  
-  <img src="PROJECT/V6_motion.gif" width="500">
+
 
 # **Major Project**
 **Agro-Seeding Drone: Development, Automation & Implementation** 🚀
